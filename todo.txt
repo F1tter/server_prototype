@@ -1,0 +1,4 @@
+Short Term:
+initilize a file system for the server.
+return the fetched data from the twitter api.
+setup template for the data to post to (res.write).
